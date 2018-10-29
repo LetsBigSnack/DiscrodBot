@@ -1,0 +1,2 @@
+# DiscrodBot
+A simply DiscordBot
